@@ -7,3 +7,13 @@
 # 资料收集与推荐
 
 B 站 UP **左程云**：https://space.bilibili.com/8888480
+
+# 刷题平台
+
+https://www.lintcode.com/
+
+https://www.nowcoder.com/
+
+https://leetcode.cn/
+
+https://hydro.ac/
