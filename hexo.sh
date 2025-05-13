@@ -1,3 +1,3 @@
 git add .
-git commit -m "LeetCode 、华为OD、牛客"
+git commit -m "LeetCode"
 git push origin master
